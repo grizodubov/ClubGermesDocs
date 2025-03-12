@@ -1,4 +1,4 @@
-# Мобильное приложение.
+# Мобильное приложение
 <show-structure for="chapter,procedure,tab,def" depth="2"/>
 
 <!--

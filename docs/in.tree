@@ -6,5 +6,10 @@
                  name="Instance Name"
                  start-page="starter.md">
 
+    <toc-element topic="Section-Starting-Page.topic"/>
     <toc-element topic="starter.md"/>
+    <toc-element topic="Managers instruments.md"/>
+    <toc-element topic="Administration panel.md"/>
+    <toc-element topic="API documentation.md"/>
+    <toc-element topic="Business processes.md"/>
 </instance-profile>
