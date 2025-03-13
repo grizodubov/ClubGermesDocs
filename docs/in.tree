@@ -3,13 +3,13 @@
         SYSTEM "https://resources.jetbrains.com/writerside/1.0/product-profile.dtd">
 
 <instance-profile id="in"
-                 name="Instance Name"
-                 start-page="starter.md">
+                 name="Club Germes Documentation"
+                 start-page="Section-Starting-Page.topic">
 
     <toc-element topic="Section-Starting-Page.topic"/>
     <toc-element topic="starter.md"/>
-    <toc-element topic="Managers instruments.md"/>
-    <toc-element topic="Administration panel.md"/>
-    <toc-element topic="API documentation.md"/>
-    <toc-element topic="Business processes.md"/>
+    <toc-element topic="Managers-instruments.md"/>
+    <toc-element topic="Administration-panel.md"/>
+    <toc-element topic="API-documentation.md"/>
+    <toc-element topic="Business-processes.md"/>
 </instance-profile>

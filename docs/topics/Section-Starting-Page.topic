@@ -18,13 +18,13 @@
     <section-starting-page>
         <title>Начало работы</title>
         <description>
-            Дает общее представление об устройстве и функциональности программного обеспечения клуба "Гермес".
+            Описание программного обеспечения клуба "Гермес".
         </description>
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="" type="account" summary="Реализуемые задачи и порядок действий">Клиентские сценарии</a>
-            <a href="" type="search" summary="Инструкции для менеджеров">Бизнес процессы клуба</a>
+            <a href="starter.md" type="account" summary="Реализуемые задачи и порядок действий">Клиентские сценарии</a>
+            <a href="Business-processes.md" type="search" summary="Инструкции для менеджеров">Бизнес процессы клуба</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->

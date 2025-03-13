@@ -26,7 +26,7 @@
 </table>
 
 ### СамоРегистрация {collapsible="true"}
-![Саморегистрация](self_registration.png){ border-effect="line" thumbnail="true" width="120"}
+![Само регистрация](self_registration.png){ border-effect="line" thumbnail="true" width="120"}
 
 > Нерекомендуемый способ регистрации.
 > Предназначен только для удовлетворения требований магазинов приложений.
