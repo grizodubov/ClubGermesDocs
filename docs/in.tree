@@ -7,10 +7,13 @@
                  start-page="Section-Starting-Page.topic">
 
     <toc-element topic="Section-Starting-Page.topic"/>
+    <toc-element topic="Overview.md"/>
     <toc-element topic="Interface-client.md"/>
     <toc-element topic="Interface-manager.md"/>
     <toc-element topic="Administration-panel.md"/>
     <toc-element topic="Instructions-client.md"/>
-    <toc-element topic="Instructions-manager.md"/>
+    <toc-element topic="Instructions-manager.md">
+        <toc-element topic="Empty-MD-Topic.md"/>
+    </toc-element>
     <toc-element topic="API-documentation.md"/>
 </instance-profile>

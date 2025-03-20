@@ -30,10 +30,10 @@
         <!--    Add several topics that are most important for this section.    -->
         <primary>
             <title>С чего начать</title>
-            <a href="" summary="Общие понятия">Обзор платформы</a>
+            <a href="Overview.md" summary="Общие понятия">Обзор платформы</a>
             <a href="Interface-client.md" summary="Описание экранов"/>
             <a href="Interface-manager.md" summary="Описание экранов">Личный кабинет менеджера "Светофор"</a>
-            <a href="" summary="Описание функционала">Панель администрирования</a>
+            <a href="Administration-panel.md" summary="Описание функционала">Панель администрирования</a>
         </primary>
 
 <!--        &lt;!&ndash;    Add several topics that are less important or are relevant only for advanced/experienced users.    &ndash;&gt;-->
