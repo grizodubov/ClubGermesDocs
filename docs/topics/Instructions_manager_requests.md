@@ -73,6 +73,7 @@ graph TD
     Manager1 ->> ClubManager: Нажимает "Контроль"
     Manager1 -> Manager2: Согласовывают время встречи
     Manager2 -->> Customer2: Уточняет информацию
+    Manager2 ->> ClubManager: Нажимает "Контроль"
     alt или подтверждение встречи
       Manager1 ->> ClubManager: подтверждает встречу онлайн
       Manager2 ->> ClubManager: подтверждает встречу онлайн
