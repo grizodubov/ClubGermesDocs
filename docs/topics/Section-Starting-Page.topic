@@ -23,17 +23,16 @@
 
         <!--    Add up to 2 topics that you want to promote. Use the "type" attribute to select an icon.    -->
         <spotlight>
-            <a href="Instructions-client.md" type="account" summary="Реализуемые задачи и порядок действий">Клиентские сценарии</a>
-            <a href="Instructions-manager.md" type="search" summary="Инструкции для менеджеров">Бизнес процессы клуба</a>
+            <a href="Client-Interface.md" type="account" summary="Клиентские сценарии использования. Экраны, реализуемые задачи и порядок действий.">Мобильное приложение для клиентов</a>
+            <a href="Instructions-manager.md" type="search" summary="Бизнес процессы клуба. Инструкции для менеджеров.">Панель администратора для менеджеров "Светофор".</a>
         </spotlight>
 
         <!--    Add several topics that are most important for this section.    -->
         <primary>
-            <title>С чего начать</title>
-            <a href="Overview.md" summary="Общие понятия">Обзор платформы</a>
-            <a href="Interface-client.md" summary="Описание экранов"/>
-            <a href="Interface-manager.md" summary="Описание экранов">Личный кабинет менеджера "Светофор"</a>
+            <title>Избранные разделы</title>
+            <a href="API-documentation.md" summary="Репозитории - Стек - Сборка - Публикация- Сервера - API.">Обзор архитектуры</a>
             <a href="Administration-panel.md" summary="Описание функционала">Панель администрирования</a>
+
         </primary>
 
 <!--        &lt;!&ndash;    Add several topics that are less important or are relevant only for advanced/experienced users.    &ndash;&gt;-->

@@ -4,7 +4,7 @@
 <!--
 -->
 Ссылки на скачивание:
-<a href="https://www.rustore.ru/catalog/app/ru.clubgermes.social.client">Rustore</a>
+<a href="https://www.rustore.ru/catalog/app/ru.clubgermes.social.client">RuStore</a>
 <a href="https://play.google.com/store/apps/details?id=ru.clubgermes.social.client">Google Play Market</a>
 <a href="https://apps.apple.com/us/app/гермес-клуб/id6447880477">Apple AppStore</a>
 <a href="https://appgallery.cloud.huawei.com/ag/n/app/C108769407">Huawei AppGallery</a>
@@ -26,28 +26,3 @@
 {style="note"}
 
 <format style="bold" color="#654321">TODO:</format> найти, какая роль при этом назначается, что ей доступно и какие ограничения; какие инструменты у менеджера для принятия решения.
-
-## Главный экран
-
-<img src="main_screen.png" alt="Login notification permission Ru" border-effect="line" thumbnail="true" width="220"/>
-
-### Верхнее меню
-![top_menue.png](top_menue.png){ width="420"}
-
-#### Аватар пользователя
-![profile_ico.png](profile_ico.png){ width="100"}
-
-Переход на экран профиля пользователя.
-Бейдж со статусом пользователя.
-#### QR
-#### Уведомления
-
-### События
-![calendar1.PNG](calendar1.PNG){ border-effect="line" style="block" thumbnail="true" width="220"}
-![calendar2.PNG](calendar2.PNG){ border-effect="line" style="block" thumbnail="true" width="220"}
-
-### Опросы
-
-### Избранные контакты, Все контакты 
-
-### Потенциальные партнеры, Все партнеры
